@@ -1,2 +1,13 @@
-1. O que é versionamento de código, para que serve, como fazer? O versionamento de código, também conhecido como controle de versão, é uma prática que consiste em acompanhar e registrar todas as alterações feitas nos arquivos de código-fonte de um projeto ao longo do tempo.
+1. O que é versionamento de código, para que serve, como fazer?
+ O versionamento de código, também conhecido como controle de versão, é uma prática que consiste em acompanhar e registrar todas as alterações feitas nos arquivos de código-fonte de um projeto ao longo do tempo.
 O versionamento consiste em estratégias para gerenciar as diferentes versões de um código, de um sistema ou de um modelo. É uma forma de administrar as mudanças que são feitas e de garantir mais segurança na transição de uma versão para outra.O processo de versionamento de código funciona por meio de sistemas de controle que registram e gerenciam alterações feitas no código-fonte de um projeto de software. Cada alteração é registrada como um "commit", contendo informações detalhadas sobre as modificações efetuadas.
+
+2.  Quais são as Boas práticas de versionamento de código?
+ Endentação – Organizando o código Todo programador inicia sua trajetória com Algoritmos e Lógica de Programação, e é aqui que ele deve ser orientado sobre as melhores práticas que deverão acompanhá-lo para o resto da sua vida.
+Comentários e Documentação Atire a primeira pedra quem nunca deixou de comentar um código e depois não se lembrava mais da funcionalidade do algoritmo que você mesmo escreveu. Convenções de nomes para classes, métodos, variáveis… Usando as boas práticas já citadas e acrescentando a isso convenções de nomes, você irá tornar a leitura do programa muito mais fácil.
+ Tratamento de erros (try/catch) O fantástico do ser humano é o fato de que quando achamos que todas as possibilidades já se esgotaram, vem um camarada e descobre algo novo, ou um problema novo.
+Padrões de Projetos (Design Patterns) No inicio dos anos 90, em que as linguagens como Clipper e Cobol eram muito utilizadas, “padrões de projeto” eram palavras que praticamente não existiam no vocabulário dos desenvolvedores.
+
+3. O que é o GIT? Para que serve? Como funciona?
+O GitHub é uma plataforma de desenvolvimento colaborativo que aloja projetos na nuvem utilizando o sistema de controle de versões chamado Git. A plataforma ajuda os desenvolvedores a armazenar e administrar o código e faz o registro de mudanças. Geralmente o código é aberto, o que permite realizar projetos compartilhados e manter o acompanhamento detalhado de seu progresso. A plataforma GitHub também funciona como rede social, conectando os desenvolvedores com os usuários. Como usuário, você pode descarregar programas ou aplicativos, e da mesma maneira, pode colaborar com seu desenvolvimento oferecendo melhorias e discutindo as questões que interessam nos fóruns temáticos.
+
