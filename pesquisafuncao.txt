@@ -1,0 +1,15 @@
+1. O que é uma função/método na programação?
+Uma função é um bloco de código que executa alguma operação. Opcionalmente, uma função pode definir parâmetros de entrada que permitem que os chamadores passem argumentos para a função. Uma função também pode retornar um valor como saída.
+
+2. Qual sua utilidade/aplicações?
+Cada programa C tem uma função principal que precisa ser nomeada como main . A função main serve como o ponto de partida para a execução do programa. Em geral, ela controla a execução direcionando as chamadas para outras funções no programa.
+
+3. Por que e como um metodo pode ajudar durante a programação?
+Os métodos tornam a programação mais eficiente, modular e limpa. Eles organizam tarefas específicas dentro do código, facilitando a reutilização, a manutenção e o teste. Quando usados adequadamente, métodos reduzem a complexidade e ajudam a manter o programa compreensível e funcional à medida que cresce.
+
+4. Como declarar e usar uma função em python?
+Passos para Declarar e Usar uma Função:
+1.Declarar a função usando def.
+2.(Opcional) Adicionar parâmetros entre parênteses se a função precisar de dados para funcionar.
+3.(Opcional) Usar return para enviar um valor de volta.
+4.Chamar a função onde você quiser no código usando seu nome seguido de parênteses.
